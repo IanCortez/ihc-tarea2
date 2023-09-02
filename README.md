@@ -1,1 +1,1 @@
-# ihc-tarea2
+# IHC Tarea 2
